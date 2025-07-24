@@ -1,2 +1,2 @@
 # osi-and-tcp [ suseong ]
-<img width="1004" height="592" alt="osi-and-tcp" src="https://github.com/user-attachments/assets/17e1377d-e08a-405d-bf86-fadc4ca43124" />
+<img width="3808" height="2241" alt="osi-and-tcp" src="https://github.com/user-attachments/assets/ce4b8d82-8dee-4535-8b96-c1449b0b7103" />
